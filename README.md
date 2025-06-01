@@ -1,6 +1,6 @@
-# 👶 New Baby Manual
+👶 New Baby Manual
 
-Welcome to the **New Baby Manual**, a lovingly curated guide for caring for your newborn. This is a personal project for new parents to stay organized, track milestones, and preserve precious moments. 🍼✨
+Welcome to the New Baby Manual, a lovingly curated guide to help you care for your newborn. This personal project is designed for new parents to stay organized, track milestones, and preserve precious memories. 🍼✨
 
-> This project has no license. Use freely for personal purposes.
+This project has no license. Feel free to use, edit, fork, and contribute for personal or community use.
 
